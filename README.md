@@ -4,12 +4,12 @@ A simple IOS app (game) built in swiftUI to educate my nephew on how to properly
 
 ### Code
 
-[here]()
+[here](https://github.com/josedv82/maskON/blob/master/ContentView.swift)
 
 
 ### Images
 
-![]()
+![](main.png)
 
 
-![]()
+![](sheetview.png)
